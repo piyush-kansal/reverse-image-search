@@ -1,10 +1,11 @@
-Similar Image Search
+Reverse Image Search
 --------------------
 
 Idea
 
-	Given an image and tags(corresponding to image), find similar images in the dataset. This idea is similar to 
-	TinEye.com and Google's "Similar images" feature. However, we also include text based search in it.
+	Given an image and tags(corresponding to image), find similar images in the dataset. This idea is 
+	similar to TinEye.com and Google's "Similar images" feature. However, we also include text based 
+	search in it.
 
 	This was done as a part of course project for Words and Pictures(CSE595).
 
